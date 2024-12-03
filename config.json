@@ -1,6 +1,6 @@
 {
-    "token": "DISCORD-BOT-TOKEN",
-    "guild-id": "DISCORD-SERVER-ID",
+    "token": "MTMxMzY1MzY2MTk3Njc1NjI2NQ.GTucT0._BbE3vFDVh7K7CQirnxJLRX3zKQzLNsPkcXxsM",
+    "guild-id": "1301712050161979462",
 
     "stock-command-silent": false,
     "remove-capture-from-stock": true,
@@ -21,8 +21,8 @@
     "messages": {
         "noperms": "You do not have permissions to use this command.",
         "wrongchannel": ":thinking: ",
-        "altsent": "Thank you for using AtluzkaGEN",
-        "footer-msg": "github.com/Atluzka/account-gen-bot"
+        "altsent": "Thank you for using Mid Gen🌐",
+        "footer-msg": "https://discord.gg/BtSrCAKe"
     },
 
     "generate-settings": {
